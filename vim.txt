@@ -459,8 +459,8 @@
 
  Q66. 単語をdivタグで囲うマクロを登録し、すべての単語に適用してください。
 
- <div>apple</div>
- <strong>banana</strong>
+ apple
+ banana
  cherry
 
 
